@@ -1,3 +1,5 @@
+#作者：栾蕴菲
+#目的：实现一个物品交换系统
 from tkinter import *
 #定义列表类，用于存放目前的物品和种类
 class List:
